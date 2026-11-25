@@ -1,0 +1,20 @@
+{
+  "project_name": "Example Campus Phase 1",
+  "state": "TX",
+  "county": "Denton County",
+  "owner_or_developer": "Example Infrastructure LLC",
+  "stage": "site_permit",
+  "capacity": {
+    "mw": 120,
+    "basis": "utility_load_mw"
+  },
+  "observed_date": "2026-11-24",
+  "evidence": [
+    {
+      "record_type": "environmental_permit",
+      "url": "https://www.tceq.texas.gov/",
+      "filed_date": "2026-09-14",
+      "summary": "Synthetic example: state environmental air permit filing for standby generation."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you adopt this schema or stage taxonomy, please cite it as below."
+title: "Data Center Stage & Evidence Specification (datacenter-stage-spec)"
+type: software
+authors:
+  - name: "Wattlas"
+    website: "https://wattlas.io"
+repository-code: "https://github.com/WattlasIO/datacenter-stage-spec"
+url: "https://wattlas.io/articles/announced-isnt-built"
+license: MIT
+keywords:
+  - data-centers
+  - json-schema
+  - specification
+  - public-records
+  - infrastructure
